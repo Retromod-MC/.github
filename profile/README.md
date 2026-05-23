@@ -1,4 +1,4 @@
 # Retromod
 ---
-# [Github](Github.com/bownlux/retromod)
-# [Website](Bownlux.github.io/Retromod)
+# (Github.com/bownlux/retromod)
+# (Bownlux.github.io/Retromod)
